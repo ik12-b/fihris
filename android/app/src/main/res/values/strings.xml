@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fihris</string>
+    <string name="title_activity_main">fihris</string>
+    <string name="package_name">com.fihris.app</string>
+    <string name="custom_url_scheme">com.fihris.app</string>
+</resources>

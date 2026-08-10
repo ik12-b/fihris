@@ -1,0 +1,6 @@
+{
+  "name": "Fihris",
+  "description": "Fihris - Islamic Kitab & Manuscript Digital Library, Search Engine, Store and Reader",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

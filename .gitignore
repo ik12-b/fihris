@@ -9,3 +9,18 @@ coverage/
 !.env.example
 src/data/pustakaBooks.json
 public/pustakaDatabase.json
+# Capacitor / Android build files
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/captures/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Cache tambahan
+.project
+.classpath
+.settings/
